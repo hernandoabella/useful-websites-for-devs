@@ -1,4 +1,4 @@
-# useful sites
+# useful websites for devs
 
 - [github](https://github.com): save your code, backups, history
 - https://canva.com : for making awesome designs for social media
